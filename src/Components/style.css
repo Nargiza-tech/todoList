@@ -1,0 +1,10 @@
+
+.line-through{
+    text-decoration: line-through;
+}
+
+
+.flex{
+    display: flex;
+    align-items: center;
+}
